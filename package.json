@@ -1,0 +1,23 @@
+{
+  "name": "Unit_Testing_Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gayathribuddhika/Unit_Testing_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gayathribuddhika/Unit_Testing_Node/issues"
+  },
+  "homepage": "https://github.com/gayathribuddhika/Unit_Testing_Node#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
